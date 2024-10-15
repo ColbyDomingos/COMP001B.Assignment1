@@ -1,0 +1,28 @@
+h1 {
+    color: violet;
+    text-align: center;
+
+    text-decoration: underline;
+}
+
+.p1 {
+    color: violet;
+    text-align: center;
+
+    font-weight: bold;
+}
+
+#foot {
+    font-size: 75%;
+}
+
+img {
+    border-radius: 75%;
+    border-color: violet;
+    border: 2cm;
+    
+
+    padding: 10%;
+
+    margin: auto;
+}
